@@ -1,0 +1,9 @@
+Well, once upon a time.. I had 60kb text file full of links.
+I wanted to download all, but you know, Canadian providers so greedy
+So I have to be very carefull and then I decided to estimate download size.
+I was too lazy for searching tool for that, so I made my own script.
+Then I wanted to try github, it rules, I know.
+
+Short story: I want save my  usefull script somewhere. And share.
+
+sizer.py: Counts total size of in plain text file with list of links.
